@@ -12,7 +12,7 @@ console.log(Date.now());
 
 shp2stl.shp2stl(buildings, {
     width: 100,
-    height: 10,
+    height: 20,
     extraBaseHeight: 1,
     extrudeBy: 'height',
     simplification: .5,
