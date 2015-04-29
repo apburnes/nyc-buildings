@@ -1,0 +1,22 @@
+{
+  "name": "nyc-buildings",
+  "version": "0.0.1",
+  "description": "Converts nyc building footprints to STL for 3D printing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stl",
+    "nyc",
+    "new",
+    "york",
+    "city",
+    "stl",
+    "buildings",
+    "footprints",
+    "3d"
+  ],
+  "author": "apburnes <bizzurnzz@gmail.com>",
+  "license": "MIT"
+}
